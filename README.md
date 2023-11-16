@@ -1,4 +1,4 @@
-# Building Real Estate Application wihth Django
+# Building Real Estate Application with Django
 
 *To be **Updated** shortly*
 
