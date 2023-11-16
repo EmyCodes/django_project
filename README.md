@@ -1,3 +1,4 @@
-# django_project
-Working with Django Framework
+# Building Real Estate Application wihth Django
+
+*To be **Updated** shortly*
 
